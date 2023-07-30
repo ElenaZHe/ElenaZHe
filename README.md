@@ -1,5 +1,4 @@
-### Добро пожаловать в мой профиль! 👋 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Добро пожаловать в мой профиль! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 ### Меня зовут Елена, я начинающий QA Engineer. 
 
 <!--
